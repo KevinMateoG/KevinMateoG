@@ -17,12 +17,14 @@
 -->
 
 ---
-<!--
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
--->
 
+- 👨‍💻 **Systems Engineering Student** at Universidad de Medellín.
+<!-- - 🚀 Passionate about software architecture and clean code.
+- 💡 Currently exploring **Frontend Development** with Vue.js and React.
+ - 🌱 Improving my skills in **Data Structures** and **Algorithms**.-->
+- 💬 Ask me about my **Neovim** setup or my journey with **Arch Linux**.
+
+---
 ## 🛠 &nbsp;Tech Stack
 
 <div align="center">
@@ -32,6 +34,16 @@
 |<img src="https://skillicons.dev/icons?i=py,js"/>|<img src="https://skillicons.dev/icons?i="/>|<img src="https://skillicons.dev/icons?i=supabase,mysql"/>|
 
 </div>
+
+<!--
+<div align="center">
+
+| Languages & Frontend | Databases | Tools & OS |
+|--|--|--|
+| <img src="https://skillicons.dev/icons?i=py,js,vue,react"/> | <img src="https://skillicons.dev/icons?i=supabase,mysql"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,arch,linux"/> |
+
+</div> 
+-->
 
 <div align="Center">
 <h1>Tools</h1>
