@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Systems%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20Systems%20Engineer%20in%20University%20of%20Medellin;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 <!--
 <p align="center">
@@ -29,7 +29,7 @@
   
 |Languages|Frameworks|Databases|
 |--|--|--|
-|<img src="https://skillicons.dev/icons?i=py,java,js"/>|<img src="https://skillicons.dev/icons?i=vue"/>|<img src="https://skillicons.dev/icons?i=supabase,mysql"/>|
+|<img src="https://skillicons.dev/icons?i=py,js"/>|<img src="https://skillicons.dev/icons?i="/>|<img src="https://skillicons.dev/icons?i=supabase,mysql"/>|
 
 </div>
 
