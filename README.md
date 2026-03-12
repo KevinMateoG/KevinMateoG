@@ -80,6 +80,6 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:gomezdiezkevinmateo@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.linkedin.com/in/kevin-mateo-gomez-diez-5494493b1/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>|
+| <a href="https://www.linkedin.com/in/kevin-mateo-gomez-diez-5494493b1/"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>|
 
 </div>
